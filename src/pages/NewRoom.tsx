@@ -13,7 +13,7 @@ export function NewRoom() {
             <aside>
                 <img src={ilustrationImg} alt="ilustração simbolizando perguntas e respostas" />
                 <strong>Crie salas de Q&amp; A ao-vivo</strong>
-                <p>Tire suas duvidas da sua audiencia em tempo real</p>
+                <p>Tire suas duvidas da sua audiencia em tempo real !!!</p>
             </aside>
             <main>
                 <div className="main-content">
